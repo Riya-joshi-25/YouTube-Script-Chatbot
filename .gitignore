@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+genai/
+.env
+
+# ChromaDB
+youtube_db/
